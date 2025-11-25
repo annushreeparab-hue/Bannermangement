@@ -1,0 +1,11 @@
+{
+    "name": "TagLineCount",
+    "alias": "taglinecount",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\TagLineCount\\Providers\\TagLineCountServiceProvider"
+    ],
+    "files": []
+}
